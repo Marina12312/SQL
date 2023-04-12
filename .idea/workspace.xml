@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cbb5ad4-109e-4bf1-8535-16331008b89d" name="Changes" comment="Задачи">
-      <change afterPath="$PROJECT_DIR$/src/рц.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/рц.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/рц.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,9 @@
       <workItem from="1681041584375" duration="1184000" />
       <workItem from="1681042791635" duration="2000" />
       <workItem from="1681116788167" duration="3383000" />
-      <workItem from="1681204175758" duration="1407000" />
+      <workItem from="1681204175758" duration="1629000" />
+      <workItem from="1681252725679" duration="988000" />
+      <workItem from="1681312807855" duration="1201000" />
     </task>
     <task id="LOCAL-00001" summary="первый">
       <created>1680960668148</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680960921503</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задачи">
+      <created>1681206576440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681206576440</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

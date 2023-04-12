@@ -72,3 +72,7 @@ skypro-# age FROM employree WHERE age=( SELECT MIN(age) FROM employree);
 skypro=# SELECT имя,
 skypro-# age FROM employree WHERE age IN(SELECT MAX(age) FROM employree GROUP BY имя HAVING COUNT(имя)>1)
 skypro-# ORDER BY 2;
+
+skypro=# SELECT имя, MAX(age) FROM employree
+skypro-# GROUP BY имя HAVING count(*) > 1
+skypro-# ORDER BY MAX(age);
