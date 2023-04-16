@@ -109,6 +109,10 @@ skypro-# (5,'Краснодар');
     Katya      | Краснодар
 
 9.
-
+    skypro=# SELECT city.city_name
+    skypro-# FROM city
+    skypro-# LEFT JOIN employee
+    skypro-# ON city.city_id = employee.city_id
+    skypro-# WHERE employee.first_name is NULL;
 
 

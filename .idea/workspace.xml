@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cbb5ad4-109e-4bf1-8535-16331008b89d" name="Changes" comment="вложенные селекты?">
-      <change afterPath="$PROJECT_DIR$/src/2.sql" afterDir="false" />
+    <list default="true" id="7cbb5ad4-109e-4bf1-8535-16331008b89d" name="Changes" comment="Две таблицы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1681204175758" duration="1629000" />
       <workItem from="1681252725679" duration="988000" />
       <workItem from="1681312807855" duration="1790000" />
-      <workItem from="1681476709956" duration="7515000" />
+      <workItem from="1681476709956" duration="8130000" />
     </task>
     <task id="LOCAL-00001" summary="первый">
       <created>1680960668148</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681314779836</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Две таблицы">
+      <created>1681486993778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681486993778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +120,7 @@
     <MESSAGE value="SQL создание таблицы" />
     <MESSAGE value="Задачи" />
     <MESSAGE value="вложенные селекты?" />
-    <option name="LAST_COMMIT_MESSAGE" value="вложенные селекты?" />
+    <MESSAGE value="Две таблицы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Две таблицы" />
   </component>
 </project>
